@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es6",
+        "noImplicitAny": false,
+        "sourceMap": true,
+        "removeComments": false
+    },
+    "include": [
+        "*/**/*.ts",
+        "app.ts"
+    ],
+    "exclude": [
+        "node_modules",
+        "node_modules/**/*.ts"
+    ]
+}
