@@ -1,18 +1,16 @@
 {
-  "name": "mediation-app-copy",
+  "name": "kaltura-client-nunjucks-test",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Zsolt Janosi <zsolt.janosi@3ss.tv>",
+  "author": "Krausz Lorant <lorant.krausz@3ss.tv>",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.15.3",
-    "nunchuck-js": "^1.2.0",
+    "kaltura-client": "^1.0.6",
     "nunjucks": "^3.0.1",
-    "path": "^0.12.7",
     "tslint": "^5.5.0",
     "typescript": "^2.4.2"
   },
